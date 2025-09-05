@@ -91,7 +91,6 @@ for n in range(2, 10):
 ```
 ---
 ## Reference
-- [Python 3 Tutorial — 4.1 if Statements](https://docs.python.org/3/tutorial/controlflow.html#if-statements)  
 - [Python 3 Tutorial — 4.2 for Statements](https://docs.python.org/3/tutorial/controlflow.html#for-statements)  
 - [Python 3 Tutorial — 4.3 The range() Function](https://docs.python.org/3/tutorial/controlflow.html#the-range-function)  
 - [Python 3 Tutorial — 4.4 break and continue Statements](https://docs.python.org/3/tutorial/controlflow.html#break-and-continue-statements)  
