@@ -1,4 +1,4 @@
-## Define funtion with `def`
+## Define function with `def`
   - Syntax: def name(params):
   - Body must be indented.
   ```python
