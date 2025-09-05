@@ -48,3 +48,8 @@
   ```python
   x = [["a", "b"], [1, 2]]
   x[0][1]   # "b"
+
+---
+
+## Reference
+- [Python 3 Tutorial — 3.1.3 Lists](https://docs.python.org/3/tutorial/introduction.html#lists)
