@@ -96,4 +96,4 @@ for n in range(2, 10):
 - [Python 3 Tutorial — 4.3 The range() Function](https://docs.python.org/3/tutorial/controlflow.html#the-range-function)  
 - [Python 3 Tutorial — 4.4 break and continue Statements](https://docs.python.org/3/tutorial/controlflow.html#break-and-continue-statements)  
 - [Python 3 Tutorial — 4.5 else Clauses on Loops](https://docs.python.org/3/tutorial/controlflow.html#else-clauses-on-loops)
-คุณอยากให้หนูเพิ่มอีกสองหัวข้อ pass และ match (4.6 pass Statements, 4.7 match Statements) ด้วยเลยไหมคะ
+
