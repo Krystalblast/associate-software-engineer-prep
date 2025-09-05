@@ -71,6 +71,6 @@
 
 ## Reference
 - [Python 3 Tutorial — 3.1.2 Text (Strings)](https://docs.python.org/3/tutorial/introduction.html#text)
-คุณอยากให้หนูจัดการเพิ่ม Reference section แบบนี้ในทุกไฟล์ note (Numbers, Strings, Lists, Control Flow,
+
 
 
