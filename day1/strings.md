@@ -48,11 +48,14 @@
   ```python
   word = "123"
   word[0]     # '1'
+  word[1]     # '2'
+  word[2]     # '3'
+  word[3]     # Error: string index out of range
   word[-1]    # '3'
 
-  word[0:2]   # '12'
-  word[:2]    # '12'
-  word[1:]    # '23'
+  word[0:2]   # '12'  (exclude word[2])
+  word[:2]    # '12'  (exclude word[2])
+  word[1:]    # '23'  (include word[1])
   word[1:55]  # '23' (safe even if out of range)
 
 - **Strings are immutable**
