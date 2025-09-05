@@ -1,4 +1,4 @@
-# match Statement in Python (Python 3.10+) ⭐ Difficult
+# match Statement in Python (Python 3.10+) 
 
 The `match` statement is Python’s **structural pattern matching** (introduced in Python 3.10).
 
