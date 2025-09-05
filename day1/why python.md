@@ -54,4 +54,4 @@
 - References to Monty Python skits in documentation are encouraged!
 
 ## Reference
-- Original source: [Whetting Your Appetite – Python 3 Tutorial](https://docs.python.org/3/tutorial/appetite.html)
+- [Python 3 Tutorial — 3.1.1 Numbers](https://docs.python.org/3/tutorial/introduction.html#numbers)
