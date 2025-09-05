@@ -48,8 +48,8 @@ match point:
 --- 
 ### Explanation:
 
-- **case (0, y) matches any tuple where the first element is 0.
+- `case (0, y)` matches any tuple where the first element is `0`.
 
-- **The second element is captured into variable y → here y=5.
+- The second element is captured into variable `y` → here `y=5`.
 
-- **That’s why it prints Y=5.
+- That’s why it prints `Y=5`.
