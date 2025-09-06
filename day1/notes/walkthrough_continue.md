@@ -16,7 +16,7 @@ for num in range(2, 10):
 
 ### Walkthough
 
-    *Outer loop → `num` takes values from 2 through 9.
+    Outer loop → `num` takes values from 2 through 9.
 
     num = 2
         - 2 % 2 == 0 → condition true  
@@ -28,43 +28,31 @@ for num in range(2, 10):
         - Doesn’t continue → runs the last print  
         - Prints: **Odd number: 3**  
 
----
+    num = 4
+    - 4 % 2 == 0 → condition true  
+    - Prints: **Even number: 4**  
+    - `continue` skips the odd print  
 
-## num = 4
-- 4 % 2 == 0 → condition true  
-- Prints: **Even number: 4**  
-- `continue` skips the odd print  
+    num = 5
+    - 5 % 2 != 0 → condition false  
+    - Prints: **Odd number: 5**  
 
----
+    num = 6
+    - 6 % 2 == 0 → condition true  
+    - Prints: **Even number: 6**  
+    - Skips odd print  
 
-## num = 5
-- 5 % 2 != 0 → condition false  
-- Prints: **Odd number: 5**  
+    num = 7
+    - 7 % 2 != 0 → condition false  
+    - Prints: **Odd number: 7**  
 
----
+    num = 8
+    - 8 % 2 == 0 → condition true  
+    - Prints: **Even number: 8**  
 
-## num = 6
-- 6 % 2 == 0 → condition true  
-- Prints: **Even number: 6**  
-- Skips odd print  
-
----
-
-## num = 7
-- 7 % 2 != 0 → condition false  
-- Prints: **Odd number: 7**  
-
----
-
-## num = 8
-- 8 % 2 == 0 → condition true  
-- Prints: **Even number: 8**  
-
----
-
-## num = 9
-- 9 % 2 != 0 → condition false  
-- Prints: **Odd number: 9**
+    num = 9
+    - 9 % 2 != 0 → condition false  
+    - Prints: **Odd number: 9**
 
 ----
 
