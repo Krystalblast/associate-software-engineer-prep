@@ -15,3 +15,6 @@
 deque(['Michael', 'Terry', 'Graham'])
 
 ```
+---
+## Reference
+[Python 3 Tutorial — Using Lists as Queues](https://docs.python.org/3/tutorial/datastructures.html#using-lists-as-queues)
