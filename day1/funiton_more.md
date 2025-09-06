@@ -1,4 +1,4 @@
-#More on Defining Functions
+# ore on Defining Functions
 
 ## Defaul Argument Value
   - You can give parameters default values → function can be called with fewer arguments.
