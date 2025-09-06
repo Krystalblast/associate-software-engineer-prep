@@ -1,6 +1,6 @@
 ## The del Statement
-	- `del` removes items from a list by index, unlike `pop()` which also returns the value.
-	- It can delete slices, clear lists, or even delete entire variables.
+- `del` removes items from a list by index, unlike `pop()` which also returns the value.
+- It can delete slices, clear lists, or even delete entire variables.
 
 	**Example:**
 
@@ -21,9 +21,9 @@
 ---
 
 ## Tuples and Sequences
-	- Tuples are immutable sequences, written as values separated by commas.
-	- They support indexing, slicing, nesting, and packing/unpacking.
-	- A tuple with one item needs a trailing comma.
+- Tuples are immutable sequences, written as values separated by commas.
+- They support indexing, slicing, nesting, and packing/unpacking.
+- A tuple with one item needs a trailing comma.
 
 	**Example:**
 
@@ -47,10 +47,10 @@
 	```
 ---
 ## Sets
-	- A set is an unordered collection with no duplicates.
-	- Supports fast membership tests and math operations: union, intersection, difference, symmetric difference.
-	- Use `{}` or `set()` to create sets.
-	- Set comprehensions are supported.
+- A set is an unordered collection with no duplicates.
+- Supports fast membership tests and math operations: union, intersection, difference, symmetric difference.
+- Use `{}` or `set()` to create sets.
+- Set comprehensions are supported.
 
 	**Example:**
 
@@ -73,10 +73,10 @@
 	```
 ---
 ## Dictionaries
-	- Dictionaries are key-value mappings (`{key: value}`).
-	- Keys must be immutable (e.g., strings, numbers, tuples).
-	- Main operations: insert, access, delete, test membership.
-	- Dict comprehensions are supported.
+- Dictionaries are key-value mappings (`{key: value}`).
+- Keys must be immutable (e.g., strings, numbers, tuples).
+- Main operations: insert, access, delete, test membership.
+- Dict comprehensions are supported.
 
 	**Example:**
 
@@ -103,14 +103,13 @@
 	```
 ---
 ## Looping Techniques
-	- `dict.items()` → iterate key + value
-	- `enumerate()` → iterate index + value
-	- `zip()` → iterate multiple sequences together
-	- `reversed()` → iterate backward
-	- `sorted()` → iterate in sorted order
-	- Use `set() + sorted()` for unique, sorted values
-
-	**Best practice:** avoid modifying lists while looping.
+- `dict.items()` → iterate key + value
+- `enumerate()` → iterate index + value
+- `zip()` → iterate multiple sequences together
+- `reversed()` → iterate backward
+- `sorted()` → iterate in sorted order
+- Use `set() + sorted()` for unique, sorted values
+- **Best practice:** avoid modifying lists while looping.
 
 	**Example:**
 
@@ -134,11 +133,11 @@
 	```
 ---
 ## More on Conditions
-	- Conditions can use operators: `in`, `not in`, `is`, `is not`.
-	- Comparisons can be chained: `a < b == c`.
-	- Boolean operators `and`, `or`, `not` are short-circuit operators.
-	- Assign result of condition to variable.
-	- Use walrus operator `:=` for assignment inside expressions.
+- Conditions can use operators: `in`, `not in`, `is`, `is not`.
+- Comparisons can be chained: `a < b == c`.
+- Boolean operators `and`, `or`, `not` are short-circuit operators.
+- Assign result of condition to variable.
+- Use walrus operator `:=` for assignment inside expressions.
 
 	**Example:**
 
@@ -152,12 +151,12 @@
 	```
 ---
 ## Comparing Sequences and Other Types
-	- Sequences are compared lexicographically (like dictionary order).
-	- Comparison goes element by element until a difference is found.
-	- If one sequence is a prefix of another, the shorter one is smaller.
-	- Strings compare by Unicode code points.
-	- Mixed numeric types compare by value (`1 == 1.0`).
-	- Otherwise, comparing incompatible types raises `TypeError`.
+- Sequences are compared lexicographically (like dictionary order).
+- Comparison goes element by element until a difference is found.
+- If one sequence is a prefix of another, the shorter one is smaller.
+- Strings compare by Unicode code points.
+- Mixed numeric types compare by value (`1 == 1.0`).
+- Otherwise, comparing incompatible types raises `TypeError`.
 
 	**Example:**
 
@@ -169,10 +168,10 @@
 	```
 ---
 ## Reference
-	- [Python 3 Tutorial — The del statement](https://docs.python.org/3/tutorial/datastructures.html#the-del-statement)  
-	- [Python 3 Tutorial — Tuples and Sequences](https://docs.python.org/3/tutorial/datastructures.html#tuples-and-sequences)  
-	- [Python 3 Tutorial — Sets](https://docs.python.org/3/tutorial/datastructures.html#sets)  
-	- [Python 3 Tutorial — Dictionaries](https://docs.python.org/3/tutorial/datastructures.html#dictionaries)  
+- [Python 3 Tutorial — The del statement](https://docs.python.org/3/tutorial/datastructures.html#the-del-statement)  
+- [Python 3 Tutorial — Tuples and Sequences](https://docs.python.org/3/tutorial/datastructures.html#tuples-and-sequences)  
+- [Python 3 Tutorial — Sets](https://docs.python.org/3/tutorial/datastructures.html#sets)  
+- [Python 3 Tutorial — Dictionaries](https://docs.python.org/3/tutorial/datastructures.html#dictionaries)  
 	- [Python 3 Tutorial — Looping Techniques](https://docs.python.org/3/tutorial/datastructures.html#looping-techniques)  
 	- [Python 3 Tutorial — More on Conditions](https://docs.python.org/3/tutorial/datastructures.html#more-on-conditions)  
 	- [Python 3 Tutorial — Comparing Sequences and Other Types](https://docs.python.org/3/tutorial/datastructures.html#comparing-sequences-and-other-types)
