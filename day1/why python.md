@@ -54,4 +54,6 @@
 - References to Monty Python skits in documentation are encouraged!
 
 ## Reference
+Based on the Python 3 Tutorial, section "Whetting Your Appetite"  
+© Python Software Foundation – Licensed under the PSF License v2  
 - Original source: [Whetting Your Appetite – Python 3 Tutorial](https://docs.python.org/3/tutorial/appetite.html)
