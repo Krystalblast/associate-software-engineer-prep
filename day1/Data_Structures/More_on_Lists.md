@@ -1,3 +1,4 @@
+```python
 >>> fruits = ['orange', 'apple', 'pear', 'banana', 'kiwi', 'apple', 'banana']
 >>> fruits
 ['orange', 'apple', 'pear', 'banana', 'kiwi', 'apple', 'banana']
