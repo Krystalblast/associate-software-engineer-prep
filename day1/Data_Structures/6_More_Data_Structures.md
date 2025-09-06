@@ -172,7 +172,7 @@
 - [Python 3 Tutorial — Tuples and Sequences](https://docs.python.org/3/tutorial/datastructures.html#tuples-and-sequences)  
 - [Python 3 Tutorial — Sets](https://docs.python.org/3/tutorial/datastructures.html#sets)  
 - [Python 3 Tutorial — Dictionaries](https://docs.python.org/3/tutorial/datastructures.html#dictionaries)  
-	- [Python 3 Tutorial — Looping Techniques](https://docs.python.org/3/tutorial/datastructures.html#looping-techniques)  
-	- [Python 3 Tutorial — More on Conditions](https://docs.python.org/3/tutorial/datastructures.html#more-on-conditions)  
-	- [Python 3 Tutorial — Comparing Sequences and Other Types](https://docs.python.org/3/tutorial/datastructures.html#comparing-sequences-and-other-types)
+- [Python 3 Tutorial — Looping Techniques](https://docs.python.org/3/tutorial/datastructures.html#looping-techniques)  
+- [Python 3 Tutorial — More on Conditions](https://docs.python.org/3/tutorial/datastructures.html#more-on-conditions)  
+- [Python 3 Tutorial — Comparing Sequences and Other Types](https://docs.python.org/3/tutorial/datastructures.html#comparing-sequences-and-other-types)
 
