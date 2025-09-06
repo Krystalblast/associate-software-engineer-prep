@@ -37,13 +37,6 @@ It includes daily goals, progress tracking, and resources covering programming, 
 
 ---
 
-## 📂 Structure
-- `notes/` → Key takeaways from daily study.  
-- `projects/` → Small coding projects (React app, Python scripts, SQL queries).  
-- `resources.md` → List of tutorials, docs, and references used.  
-
----
-
 ## ✅ Progress Tracking
 I will update this README with daily progress and completed checkboxes to track my journey.  
 
