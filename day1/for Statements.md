@@ -48,7 +48,9 @@ for n in range(2, 10):
 # 6 equals 2 * 3
 # 8 equals 2 * 4
 # 9 equals 3 * 3
-
+```
+- [Read the step-by-step walkthrough]
+```python
 # continue example: skips current iteration
 for num in range(2, 10):
     if num % 2 == 0:
