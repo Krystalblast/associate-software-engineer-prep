@@ -1,4 +1,4 @@
-# Strings in Python
+# Notes: Strings in Python
 
 - **Basic strings**
   ```python
@@ -70,7 +70,9 @@
 ----
 
 ## Reference
-- [Python 3 Tutorial — 3.1.2 Text (Strings)](https://docs.python.org/3/tutorial/introduction.html#text)
+Based on the Python 3 Tutorial, section "3.1.2 Text (Strings)"
+© Python Software Foundation – Licensed under the PSF License v2
+- Source: [Python 3 Tutorial — 3.1.2 Text (Strings)](https://docs.python.org/3/tutorial/introduction.html#text)
 
 
 
