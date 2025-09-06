@@ -21,3 +21,6 @@
 
 ```
 👉 append = push, pop = remove last
+---
+## Reference
+[Python 3 Tutorial — Using Lists as Stacks](https://docs.python.org/3/tutorial/datastructures.html#using-lists-as-stacks)
