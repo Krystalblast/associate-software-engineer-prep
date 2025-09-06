@@ -26,7 +26,7 @@ for num in range(2, 10):
     num = 3
         - 3 % 2 != 0 → condition false  
         - Doesn’t continue → runs the last print  
-        - Prints: **Odd number: 3**  
+        - Prints: Odd number: 3 
 
     num = 4
     - 4 % 2 == 0 → condition true  
@@ -35,24 +35,24 @@ for num in range(2, 10):
 
     num = 5
     - 5 % 2 != 0 → condition false  
-    - Prints: **Odd number: 5**  
+    - Prints: Odd number: 5
 
     num = 6
     - 6 % 2 == 0 → condition true  
-    - Prints: **Even number: 6**  
+    - Prints: Even number: 6*
     - Skips odd print  
 
     num = 7
     - 7 % 2 != 0 → condition false  
-    - Prints: **Odd number: 7**  
+    - Prints: Odd number: 7  
 
     num = 8
     - 8 % 2 == 0 → condition true  
-    - Prints: **Even number: 8**  
+    - Prints: Even number: 8*
 
     num = 9
     - 9 % 2 != 0 → condition false  
-    - Prints: **Odd number: 9**
+    - Prints: Odd number: 9
 
 ----
 
