@@ -16,9 +16,9 @@ for num in range(2, 10):
 
 ### Walkthough
 
-    Outer loop → `num` takes values from 2 through 9.
+**Outer loop → `num` takes values from 2 through 9.**
 
-    **num = 2**
+**num = 2**
 - 2 % 2 == 0 → condition true  
 - Prints: **Even number: 2**  
 - `continue` jumps to next loop → skips the odd-print line  
