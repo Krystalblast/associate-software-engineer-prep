@@ -27,7 +27,7 @@ for n in range(2, 10):
 ---
 
 **Output**
-
+```yaml
 Even number: 2
 Odd number: 3
 Even number: 4
@@ -36,5 +36,5 @@ Even number: 6
 Odd number: 7
 Even number: 8
 Odd number: 9
-
+```
 
