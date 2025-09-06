@@ -60,3 +60,7 @@
 >>> fruits.clear()
 >>> fruits
 []
+```
+---
+## Reference
+[Python 3 Tutorial — 5.1.1 More on Lists](https://docs.python.org/3/tutorial/datastructures.html#more-on-lists)
