@@ -49,7 +49,7 @@ for n in range(2, 10):
 # 8 equals 2 * 4
 # 9 equals 3 * 3
 ```
-- [Read the step-by-step walkthrough]
+- [Read the step-by-step walkthrough](https://github.com/Krystalblast/associate-software-engineer-prep/blob/main/day1/notes/walkthrough_break.md)
 ```python
 # continue example: skips current iteration
 for num in range(2, 10):
