@@ -1,3 +1,4 @@
+# Notes
 ## for Statements 
 ```python
 words = ["cat", "window", "defenestrate"]
