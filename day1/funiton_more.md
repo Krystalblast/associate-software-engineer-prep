@@ -50,7 +50,7 @@ def good_function(a, L=None):
 - Positional args must come first.
 - No parameter can be assigned more than once.
 - Extra args: `*args` (tuple), `**kwargs` (dict).
-- 
+  
 ### Basic Usage
 ```python
 def parrot(voltage, state='stiff', action='voom', type='Blue'):
@@ -87,7 +87,7 @@ cheeseshop("Cheddar",
 ## Parameter Types
   - `/` → positional-only params.
   - `*` → keyword-only params.
-  - 
+    
 ### Syntax Overview
 ```python
 def function(pos_only, /, pos_or_kwd, *, kwd_only):
@@ -165,7 +165,7 @@ parrot(**params)
 ## Lambda Functions
   - Anonymous, single-expression functions.
   - Useful as short functions or sort keys.
-  - 
+    
 ### Basic Lambda
 ```python
 # Regular function
@@ -203,7 +203,7 @@ print(add_10(5))  # 15
 ## Function Annotations
   - Stored in `__annotations__`.
   - No runtime effect.
-  - 
+    
 ### Type Hints
 ```python
 def greet(name: str, age: int = 25) -> str:
