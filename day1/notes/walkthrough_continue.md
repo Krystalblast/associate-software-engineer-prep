@@ -16,14 +16,60 @@ for num in range(2, 10):
 
 ### Walkthough
 
-- **num = 2** → even → prints `Even number: 2`, skips odd print  
-- **num = 3** → odd → prints `Odd number: 3`  
-- **num = 4** → even → prints `Even number: 4`  
-- **num = 5** → odd → prints `Odd number: 5`  
-- **num = 6** → even → prints `Even number: 6`  
-- **num = 7** → odd → prints `Odd number: 7`  
-- **num = 8** → even → prints `Even number: 8`  
-- **num = 9** → odd → prints `Odd number: 9`  
+Outer loop → `num` takes values from 2 through 9.
+
+---
+
+## num = 2
+- 2 % 2 == 0 → condition true  
+- Prints: **Even number: 2**  
+- `continue` jumps to next loop → skips the odd-print line  
+
+---
+
+## num = 3
+- 3 % 2 != 0 → condition false  
+- Doesn’t continue → runs the last print  
+- Prints: **Odd number: 3**  
+
+---
+
+## num = 4
+- 4 % 2 == 0 → condition true  
+- Prints: **Even number: 4**  
+- `continue` skips the odd print  
+
+---
+
+## num = 5
+- 5 % 2 != 0 → condition false  
+- Prints: **Odd number: 5**  
+
+---
+
+## num = 6
+- 6 % 2 == 0 → condition true  
+- Prints: **Even number: 6**  
+- Skips odd print  
+
+---
+
+## num = 7
+- 7 % 2 != 0 → condition false  
+- Prints: **Odd number: 7**  
+
+---
+
+## num = 8
+- 8 % 2 == 0 → condition true  
+- Prints: **Even number: 8**  
+
+---
+
+## num = 9
+- 9 % 2 != 0 → condition false  
+- Prints: **Odd number: 9**
+
 ----
 
 ## Output
