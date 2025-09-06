@@ -24,7 +24,6 @@
 >>> fruits
 ['banana', 'apple', 'kiwi', 'banana', 'pear', 'apple', 'orange', 'grape']
 
-```python
 # sort()
 >>> fruits.sort()
 >>> fruits
