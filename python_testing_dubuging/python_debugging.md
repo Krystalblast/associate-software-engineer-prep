@@ -129,3 +129,27 @@ print(timeit.timeit("sum(range(1000))", number=10000))
 - Use `cProfile` / `timeit` for performance bottlenecks.
 
 ---
+
+## References 
+
+A collection of official documentation and useful guides for Python debugging.
+
+## Official Python Docs
+- Logging: https://docs.python.org/3/library/logging.html
+- pdb (Python Debugger): https://docs.python.org/3/library/pdb.html
+- traceback: https://docs.python.org/3/library/traceback.html
+- faulthandler: https://docs.python.org/3/library/faulthandler.html
+- profile & cProfile: https://docs.python.org/3/library/profile.html
+- timeit: https://docs.python.org/3/library/timeit.html
+
+---
+
+## IDE Debuggers
+- VS Code Debugging: https://code.visualstudio.com/docs/editor/debugging
+- PyCharm Debugging: https://www.jetbrains.com/help/pycharm/debugging-code.html
+
+---
+
+## Tutorials / Guides
+- Real Python – Debugging with pdb: https://realpython.com/python-debugging-pdb/
+- Real Python – Logging in Python: https://realpython.com/python-logging/
