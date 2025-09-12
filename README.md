@@ -23,7 +23,7 @@ It includes focused tasks, progress tracking, and resources covering programming
 - [ ] Python testing & debugging (unit tests, error handling) -> [📖 Study Notes](./python_testing_dubuging/)
 
 ### 🗄 Databases
-- [ ] SQL basics: SELECT, WHERE, JOIN, GROUP BY  
+- [ ] SQL basics: SELECT, WHERE, JOIN, GROUP BY -> [📖 Study Notes](./sql_basics_notes.md)
 
 ### ⚛️ Web Development
 - [ ] React fundamentals: components, props, state  
