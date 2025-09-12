@@ -21,3 +21,12 @@
 - [Strings](./strings.md)
 - [Virtualenv Packages](./virtualenv_packages.md)
 - [Why Python](./why%20python.md)
+  
+## Data Structures
+
+- [More on Lists](./1_More_on_Lists.md)
+- [Using Lists as Stacks](./2_Using_Lists_as_Stacks.md)
+- [Using Lists as Queues](./3_Usling_Lists_as_Queues.md)
+- [List Comprehensions](./4_Lists_Comprehensions.md)
+- [Nested List Comprehensions](./5_Nested_List_Comprehensions.md)
+- [More Data Structures](./6_More_Data_Structures.md)
