@@ -19,7 +19,7 @@ It includes focused tasks, progress tracking, and resources covering programming
 ## 📋 Study Tasks
 
 ### 🐍 Programming
-- [ ] Python basics: loops, functions, lists/dicts, error handling  
+- [ ] Python basics: loops, functions, lists/dicts, error handling  📘 [Notes](https://github.com/Krystalblast/associate-software-engineer-prep/tree/main/day1)
 - [ ] Python testing & debugging (unit tests, error handling)
 
 ### 🗄 Databases
