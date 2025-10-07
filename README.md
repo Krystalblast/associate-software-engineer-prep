@@ -26,7 +26,7 @@ It includes focused tasks, progress tracking, and resources covering programming
 - [ ] SQL basics: SELECT, WHERE, JOIN, GROUP BY -> [📖 Study Notes](./sql_basics_notes.md)
 
 ### ⚛️ Web Development
-- [ ] React fundamentals: components, props, state  
+- [ ] React fundamentals: components, props, state [📖 Study Notes](./react_fundamental.md)
 - [ ] Build small React project (to-do list or weather app)
 
 ### 🛠 Version Control
